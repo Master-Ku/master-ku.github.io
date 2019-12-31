@@ -11,7 +11,7 @@ tagline:             '想念卢大律师的每一天'
 description:		 '星星哪有你好看啊。'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
-paginate:            5
+paginate:            1
 plugins:			 [jekyll-paginate]
 
 # About/contact
